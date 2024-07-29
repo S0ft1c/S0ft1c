@@ -1,4 +1,8 @@
-## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=S0ft1c&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### About me
+
+*I am a very lazy person, let's start with that.*
 
 <!--
 **S0ft1c/S0ft1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
