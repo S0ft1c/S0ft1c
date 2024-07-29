@@ -9,7 +9,7 @@
 ### Some of github statistics
 *They look cool. Not the values on them but...*
 
-<img width="800" height="220" src="https://streak-stats.demolab.com?user=S0ft1c&theme=onedark&hide_border=true&border_radius=5&card_width=800">
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=S0f1tc&show_icons=true&theme=onedark">
 
 ---
 
