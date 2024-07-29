@@ -9,7 +9,7 @@
 ### Some of github statistics
 *They look cool. Not the values on them but...*
 
-<img src="https://myreadme.vercel.app/api/embed/S0ft1c?panels=userstatistics,toplanguages" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/S0ft1c?panels=userstatistics,toplanguages&theme=onedark" alt="reimaginedreadme" />
 
 ---
 
