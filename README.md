@@ -9,7 +9,7 @@
 ### Some of github statistics
 *They look cool. Not the values on them but...*
 
-<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=S0f1tc&show_icons=true&theme=onedark">
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=S0ft1c&show_icons=true&theme=onedark">
 
 ---
 
