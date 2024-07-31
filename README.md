@@ -6,7 +6,21 @@
 ### About me
 *I am a very lazy person, let's start with that.*
 
-### Some of github statistics
+**🔭 I'm currently working on:** 
+- Telegram bots on `aiogram3` for freelance
+- _Portswigger_. Learning pentesting and hacking _(sort of)_
+- A lot of _Stepik_ courses
+
+**🌱 I’m currently learning:**
+- Hacking
+- Pentesting
+- DataScience _(a little)_
+
+**📫 How to reach me:**
+- [Telegram account](https://t.me/STephanDolskii)
+And that's it.
+
+### Some of GitHub statistics
 *They look cool. Not the values on them but...*
 
 <img src="https://github-readme-stats.vercel.app/api?username=S0ft1c&show_icons=true&theme=onedark">
